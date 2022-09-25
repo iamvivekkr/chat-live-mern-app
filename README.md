@@ -70,7 +70,7 @@ Real-time chat application created by using the following stack
 
 ![Screenshot_(535)-01 1](https://user-images.githubusercontent.com/91110678/192165579-53042575-bf86-4f84-b65a-7289c69228c1.jpeg)
 
-<h5>One-n-One Chat Conversation</h5>
+<h5>One-n-One Chat Conversation & Typing Indicator</h5>
 
 ![Screenshot_(532)-01 1](https://user-images.githubusercontent.com/91110678/192165592-da33e5ed-bbc6-46bd-a42e-75ccb5a53e43.jpeg)
 
