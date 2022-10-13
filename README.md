@@ -76,7 +76,6 @@ Real-time chat application created by using the following stack
 
 ---
 
-
 ## License & copyright
 
 ©️ Vivek Kumar
