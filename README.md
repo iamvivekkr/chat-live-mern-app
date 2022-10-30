@@ -5,7 +5,6 @@ Realtime Chat Web Application using MERN stack and Socket.io
 
 ---
 
-
 Real-time chat application created by using the following stack
 
 - MongoDB (Database)
