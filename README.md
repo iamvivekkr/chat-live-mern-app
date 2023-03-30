@@ -1,7 +1,7 @@
 # chat-live-mern-app
 Realtime Chat Web Application using MERN stack and Socket.io
 
-- Visit <https://chat-live-mern.herokuapp.com//>
+- Visit <https://chatlive-yyhs.onrender.com/>
 
 ---
 
